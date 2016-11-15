@@ -1,0 +1,296 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1407" measuredH="970" mockupW="1397" mockupH="961">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="10" y="9" w="1397" h="961" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>/UserEntity/List%200r%20Read</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Canvas" x="41" y="132" w="1326" h="37" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="__group__" x="11" y="82" w="1375" h="43" measuredW="1375" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>DHP%3A%20Navigation%20Bar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1375" h="43" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="119">
+          <controlProperties>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="821" y="8" w="539" h="27" measuredW="467" measuredH="27" zOrder="1" locked="false" isInGroup="119">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <text>Discovery%2C%20Assigned%2C%20Add%20Article%2C%20Coverage%2C%20Settings%2C%20USER</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="32" y="9" w="142" h="-1" measuredW="112" measuredH="24" zOrder="2" locked="false" isInGroup="119">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>DataBaseIcon%7Csmall</icon>
+            <labelPosition>right</labelPosition>
+            <text>Discovery%20Hub</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Accordion" x="1095" y="177" w="272" h="186" measuredW="150" measuredH="159" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Refine%20Coverage%0A-%20Select%20Feed%0A-%20Narrow%20Results%20By</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Accordion" x="1095" y="372" w="272" h="186" measuredW="150" measuredH="105" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Highlight%20Terms</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Accordion" x="1097" y="567" w="270" h="186" measuredW="150" measuredH="105" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Category%20Assignment</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::HRule" x="35" y="571" w="884" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Paragraph" x="48" y="257" w="751" h="287" measuredW="275" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20think%20water%20moves%20fast%3F%20You%20should%20see%20ice.%20It%20moves%20like%20it%20has%20a%20mind.%20Like%20it%20knows%20it%20killed%20the%20world%20once%20and%20got%20a%20taste%20for%20murder.%20After%20the%20avalanche%2C%20it%20took%20us%20a%20week%20to%20climb%20out.%20Now%2C%20I%20don%27t%20know%20exactly%20when%20we%20turned%20on%20each%20other%2C%20but%20I%20know%20that%20seven%20of%20us%20survived%20the%20slide...%20and%20only%20five%20made%20it%20out.%20Now%20we%20took%20an%20oath%2C%20that%20I%27m%20breaking%20now.%20We%20said%20we%27d%20say%20it%20was%20the%20snow%20that%20killed%20the%20other%20two%2C%20but%20it%20wasn%27t.%20Nature%20is%20lethal%20but%20it%20doesn%27t%20hold%20a%20candle%20to%20man.%0A%20%0AWell%2C%20the%20way%20they%20make%20shows%20is%2C%20they%20make%20one%20show.%20That%20show%27s%20called%20a%20pilot.%20Then%20they%20show%20that%20show%20to%20the%20people%20who%20make%20shows%2C%20and%20on%20the%20strength%20of%20that%20one%20show%20they%20decide%20if%20they%27re%20going%20to%20make%20more%20shows.%20Some%20pilots%20get%20picked%20and%20become%20television%20programs.%20Some%20don%27t%2C%20become%20nothing.%20She%20starred%20in%20one%20of%20the%20ones%20that%20became%20nothing.%0A%20%0ANormally%2C%20both%20your%20asses%20would%20be%20dead%20as%20fried%20chicken%2C%20but%20you%20happen%20to%20pull%20this%20shit%20while%20I%27m%20in%20a%20transitional%20period%20so%20I%20don%27t%20wanna%20kill%20you%2C%20I%20wanna%20help%20you.%20But%20I%20can%27t%20give%20you%20this%20case%2C%20it%20don%27t%20belong%20to%20me.%20Besides%2C%20I%27ve%20already%20been%20through%20too%20much%20shit%20this%20morning%20over%20this%20case%20to%20hand%20it%20over%20to%20your%20dumb%20ass.%0A%20%0AWell%2C%20the%20way%20they%20make%20shows%20is%2C%20they%20make%20one%20show.%20That%20show%27s%20called%20a%20pilot.%20Then%20they%20show%20that%20show%20to%20the%20people%20who%20make%20shows%2C%20and%20on%20the%20strength%20of%20that%20one%20show%20they%20decide%20if%20they%27re%20going%20to%20make%20more%20shows.%20Some%20pilots%20get%20picked%20and%20become%20television%20programs.%20Some%20don%27t%2C%20become%20nothing.%20She%20starred%20in%20one%20of%20the%20ones%20that%20became%20nothing.%0A%20%0AYou%20think%20water%20moves%20fast%3F%20You%20should%20see%20ice.%20It%20moves%20like%20it%20has%20a%20mind.%20Like%20it%20knows%20it%20killed%20the%20world%20once%20and%20got%20a%20taste%20for%20murder.%20After%20the%20avalanche%2C%20it%20took%20us%20a%20week%20to%20climb%20out.%20Now%2C%20I%20don%27t%20know%20exactly%20when%20we%20turned%20on%20each%20other%2C%20but%20I%20know%20that%20seven%20of%20us%20survived%20the%20slide...%20and%20only%20five%20made%20it%20out.%20Now%20we%20took%20an%20oath%2C%20that%20I%27m%20breaking%20now.%20We%20said%20we%27d%20say%20it%20was%20the%20snow%20that%20killed%20the%20other%20two%2C%20but%20it%20wasn%27t.%20Nature%20is%20lethal%20but%20it%20doesn%27t%20hold%20a%20candle%20to%20man.%0A%20%0AWell%2C%20the%20way%20they%20make%20shows%20is%2C%20they%20make%20one%20show.%20That%20show%27s%20called%20a%20pilot.%20Then%20they%20show%20that%20show%20to%20the%20people%20who%20make%20shows%2C%20and%20on%20the%20strength%20of%20that%20one%20show%20they%20decide%20if%20they%27re%20going%20to%20make%20more%20shows.%20Some%20pilots%20get%20picked%20and%20become%20television%20programs.%20Some%20don%27t%2C%20become%20nothing.%20She%20starred%20in%20one%20of%20the%20ones%20that%20became%20nothing.%0A%20%0ANormally%2C%20both%20your%20asses%20would%20be%20dead%20as%20fried%20chicken%2C%20but%20you%20happen%20to%20pull%20this%20shit%20while%20I%27m%20in%20a%20transitional%20period%20so%20I%20don%27t%20wanna%20kill%20you%2C%20I%20wanna%20help%20you.%20But%20I%20can%27t%20give%20you%20this%20case%2C%20it%20don%27t%20belong%20to%20me.%20Besides%2C%20I%27ve%20already%20been%20through%20too%20much%20shit%20this%20morning%20over%20this%20case%20to%20hand%20it%20over%20to%20your%20dumb%20ass.%0A%20%0AWell%2C%20the%20way%20they%20make%20shows%20is%2C%20they%20make%20one%20show.%20That%20show%27s%20called%20a%20pilot.%20Then%20they%20show%20that%20show%20to%20the%20people%20who%20make%20shows%2C%20and%20on%20the%20strength%20of%20that%20one%20show%20they%20decide%20if%20they%27re%20going%20to%20make%20more%20shows.%20Some%20pilots%20get%20picked%20and%20become%20television%20programs.%20Some%20don%27t%2C%20become%20nothing.%20She%20starred%20in%20one%20of%20the%20ones%20that%20became%20nothing.</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::SubTitle" x="41" y="183" w="-1" h="-1" measuredW="289" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Uuummmm%2C%20this%20is%20a%20tasty%20burger%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::Label" x="41" y="206" w="-1" h="-1" measuredW="305" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20businessinsider.com%20%20Staff%20Writer%20%201h%20ago%20%200%20tweets</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="814" y="251" w="-1" h="300" measuredW="16" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Canvas" x="39" y="251" w="784" h="300" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13421772</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Button" x="845" y="198" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Cxsmall</icon>
+        <state>selected</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Button" x="881" y="198" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DownFillTriangleIcon%7Cxsmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Link" x="851" y="548" w="-1" h="-1" measuredW="22" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Top</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Link" x="878" y="548" w="-1" h="-1" measuredW="34" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Close</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Canvas" x="39" y="169" w="25" h="10" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13369344</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::SubTitle" x="37" y="680" w="-1" h="-1" measuredW="289" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Uuummmm%2C%20this%20is%20a%20tasty%20burger%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::Label" x="37" y="703" w="-1" h="-1" measuredW="305" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20businessinsider.com%20%20Staff%20Writer%20%201h%20ago%20%200%20tweets</text>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Button" x="841" y="687" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Cxsmall</icon>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::Button" x="877" y="687" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DownFillTriangleIcon%7Cxsmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::Canvas" x="35" y="666" w="25" h="10" measuredW="100" measuredH="70" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13369344</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::Canvas" x="62" y="666" w="25" h="10" measuredW="100" measuredH="70" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>15110456</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>3700253</color>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::HRule" x="35" y="653" w="884" h="-1" measuredW="100" measuredH="10" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::HRule" x="35" y="736" w="884" h="-1" measuredW="100" measuredH="10" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::SubTitle" x="37" y="600" w="-1" h="-1" measuredW="289" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text>Uuummmm%2C%20this%20is%20a%20tasty%20burger%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::Label" x="37" y="623" w="-1" h="-1" measuredW="305" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20businessinsider.com%20%20Staff%20Writer%20%201h%20ago%20%200%20tweets</text>
+      </controlProperties>
+    </control>
+    <control controlID="177" controlTypeID="com.balsamiq.mockups::Button" x="841" y="607" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Cxsmall</icon>
+        <state>up</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Button" x="877" y="607" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DownFillTriangleIcon%7Cxsmall</icon>
+        <state>selected</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::Canvas" x="35" y="586" w="25" h="10" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13369344</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::Canvas" x="62" y="586" w="25" h="10" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>15110456</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>3700253</color>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::RedX" x="845" y="546" w="32" h="23" measuredW="240" measuredH="104" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::Canvas" x="89" y="666" w="25" h="10" measuredW="100" measuredH="70" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13369344</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>13369344</color>
+      </controlProperties>
+    </control>
+    <control controlID="194" controlTypeID="com.balsamiq.mockups::TextInput" x="842" y="632" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>13421772</borderColor>
+        <text>Add%20or%20Update%20Article...</text>
+      </controlProperties>
+    </control>
+    <control controlID="195" controlTypeID="com.balsamiq.mockups::SearchBox" x="1113" y="606" w="239" h="-1" measuredW="120" measuredH="25" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="196" controlTypeID="com.balsamiq.mockups::Link" x="1113" y="645" w="-1" h="-1" measuredW="197" measuredH="19" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Team%20Marvel%20%28Influence%20Ranking%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::Canvas" x="10" y="81" w="1378" h="864" measuredW="100" measuredH="70" zOrder="36" locked="true" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="206" controlTypeID="com.balsamiq.mockups::SubTitle" x="144" y="255" w="-1" h="-1" measuredW="147" measuredH="23" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Original%20Article%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="207" controlTypeID="com.balsamiq.mockups::SubTitle" x="143" y="320" w="-1" h="-1" measuredW="116" measuredH="23" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Reposted%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="208" controlTypeID="com.balsamiq.mockups::TextInput" x="142" y="366" w="444" h="-1" measuredW="79" measuredH="26" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="209" controlTypeID="com.balsamiq.mockups::TextInput" x="620" y="366" w="444" h="-1" measuredW="79" measuredH="26" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::Button" x="1095" y="359" w="160" h="41" measuredW="128" measuredH="28" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5398886</color>
+        <size>20</size>
+        <text>Add%20Repost</text>
+      </controlProperties>
+    </control>
+    <control controlID="211" controlTypeID="com.balsamiq.mockups::SubTitle" x="298" y="256" w="331" h="-1" measuredW="198" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Name%20of%20pub%20optional%20ID</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::Canvas" x="120" y="140" w="1158" h="282" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::Title" x="628" y="149" w="-1" h="-1" measuredW="143" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Article%20Editor</text>
+      </controlProperties>
+    </control>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::TabBar" x="120" y="176" w="1159" h="268" measuredW="276" measuredH="100" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>articleEdit-Citation%26bm%3BarticleEdit-Citation.bmml%26bm%3BarticleEdit-Citation.bmml%26bm%3BarticleEdit-Citation.bmml%2CarticleEdit-Analysis%26bm%3BarticleEdit-Analysis.bmml%26bm%3BarticleEdit-Analysis.bmml%26bm%3BarticleEdit-Analysis.bmml%2CarticleEdit-Reposts%26bm%3BarticleEdit-Reposts.bmml%26bm%3BarticleEdit-Reposts.bmml%26bm%3BarticleEdit-Reposts.bmml%2CarticleEdit-Admin%26bm%3BarticleEdit-Admin.bmml%26bm%3BarticleEdit-Admin.bmml%26bm%3BarticleEdit-Admin.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22130%2C167%2C188%2C194%22%20href%3D%22articleEdit-Citation.bmml%22%20alt%3D%22articleEdit-Citation%22%20id%3D%22214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22188%2C167%2C250%2C194%22%20href%3D%22articleEdit-Analysis.bmml%22%20alt%3D%22articleEdit-Analysis%22%20id%3D%22214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22250%2C167%2C312%2C194%22%20href%3D%22articleEdit-Reposts.bmml%22%20alt%3D%22articleEdit-Reposts%22%20id%3D%22214%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22312%2C167%2C360%2C194%22%20href%3D%22articleEdit-Admin.bmml%22%20alt%3D%22articleEdit-Admin%22%20id%3D%22214%22/%3E</map>
+        <selectedIndex>2</selectedIndex>
+        <text>Citation%2C%20Analysis%2C%20Reposts%2C%20Admin</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

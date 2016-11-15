@@ -1,0 +1,1620 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2127" measuredH="1951" mockupW="2114" mockupH="1951">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="40" y="41" w="272" h="367" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="57" y="54" w="238" h="-1" measuredW="123" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="40" y="89" w="272" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::CallOut" x="21" y="101" w="-1" h="-1" measuredW="36" measuredH="37" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::VCurly" x="644" y="1138" w="243" h="46" measuredW="180" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>If%20%27Yes%27%2C%20then%20the%20subform%20reveals.</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::VCurly" x="326" y="139" w="214" h="118" measuredW="180" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>List%20of%20Categories%20set%20up%20by%20the%20%0AAdmin%20Category%20Setup%20tool%0A%20%0AMulti-select%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::VCurly" x="651" y="1191" w="376" h="127" measuredW="180" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Unchecking%3A%20%0A%20%20removes%20the%20date%20filter%20data%20from%20the%20query%20and%20submits%20it.%0A%20%20resets%20the%20elements%0A%20%20hides%20the%20subelements</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::StickyNote" x="873" y="63" w="257" h="194" measuredW="109" measuredH="123" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>URL%20route%20for%20initialization%0A%20%0AHuman%20interaction%20for%20subsequent%0A%20%0ACookieable%20and%20reads%20cookie%20to%20construct%20last%20state%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::VCurly" x="326" y="571" w="214" h="176" measuredW="180" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>List%20of%20outlets%20bound%20to%20the%20category%0AENHNCEMENT%3A%0ADefault%20%3D%20All%0AOnce%20Category%20selected%2C%20list%20is%20rebuilt%0Awith%20the%20list%20of%20mapped%20outlets%20+%20ALL%20option.%0A%20%0AMulti%20select</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Canvas" x="41" y="490" w="272" h="359" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::IconLabel" x="58" y="495" w="238" h="-1" measuredW="123" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::HRule" x="41" y="530" w="272" h="-1" measuredW="100" measuredH="10" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::CallOut" x="21" y="537" w="-1" h="-1" measuredW="38" measuredH="40" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="__group__" x="51" y="281" w="244" h="22" measuredW="244" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="152">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="45" h="22" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="152">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::SubTitle" x="54" y="106" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::SubTitle" x="51" y="242" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::HRule" x="52" y="230" w="243" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::TabBar" x="57" y="571" w="238" h="116" measuredW="186" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>1</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+      </controlProperties>
+    </control>
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::TabBar" x="57" y="131" w="238" h="134" measuredW="186" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="__group__" x="555" y="49" w="272" h="367" measuredW="272" measuredH="367" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="272" h="367" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="175"/>
+        <control controlID="1" controlTypeID="__group__" x="15" y="132" w="241" h="42" measuredW="241" measuredH="42" zOrder="1" locked="false" isInGroup="175">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="2" y="0" w="49" h="-1" measuredW="49" measuredH="19" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>Outlet</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="18" w="241" h="-1" measuredW="104" measuredH="24" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>All%20Coverage</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="15" y="80" w="241" h="42" measuredW="241" measuredH="42" zOrder="2" locked="false" isInGroup="175">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="70" h="-1" measuredW="70" measuredH="19" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>Category</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="18" w="241" h="-1" measuredW="82" measuredH="24" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <state>closed</state>
+                <text>Choose...%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="11" y="253" w="244" h="21" measuredW="244" measuredH="21" zOrder="3" locked="false" isInGroup="175">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>Limit%20By%20Date%20Range</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="45" h="21" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <state>up</state>
+                <text>Yes</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="14" y="54" w="71" h="-1" measuredW="71" measuredH="27" zOrder="4" locked="false" isInGroup="175">
+          <controlProperties>
+            <text>Select</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="11" y="216" w="56" h="-1" measuredW="56" measuredH="27" zOrder="5" locked="false" isInGroup="175">
+          <controlProperties>
+            <text>Filter</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="12" y="204" w="243" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="175"/>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="16" y="9" w="238" h="-1" measuredW="123" measuredH="32" zOrder="7" locked="false" isInGroup="175">
+          <controlProperties>
+            <bold>true</bold>
+            <icon>ListIcon%7Cmedium</icon>
+            <labelPosition>left</labelPosition>
+            <size>20</size>
+            <text>Coverage</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="43" w="272" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="175"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::ComboBox" x="62" y="171" w="226" h="-1" measuredW="261" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::ComboBox" x="62" y="614" w="228" h="-1" measuredW="104" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%20Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::SubTitle" x="55" y="544" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="__group__" x="555" y="490" w="272" h="359" measuredW="272" measuredH="359" zOrder="23" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="272" h="359" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="183"/>
+        <control controlID="1" controlTypeID="__group__" x="15" y="129" w="241" h="42" measuredW="241" measuredH="42" zOrder="1" locked="false" isInGroup="183">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="2" y="0" w="49" h="-1" measuredW="49" measuredH="19" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>Outlet</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="18" w="241" h="-1" measuredW="104" measuredH="24" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>All%20Coverage</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="15" y="79" w="241" h="42" measuredW="241" measuredH="42" zOrder="2" locked="false" isInGroup="183">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="70" h="-1" measuredW="70" measuredH="19" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>Category</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="18" w="241" h="-1" measuredW="82" measuredH="24" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <state>closed</state>
+                <text>Choose...%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="11" y="247" w="244" h="21" measuredW="244" measuredH="21" zOrder="3" locked="false" isInGroup="183">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>Limit%20By%20Date%20Range</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="45" h="21" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <state>up</state>
+                <text>Yes</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="14" y="52" w="71" h="-1" measuredW="71" measuredH="27" zOrder="4" locked="false" isInGroup="183">
+          <controlProperties>
+            <text>Select</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="11" y="211" w="56" h="-1" measuredW="56" measuredH="27" zOrder="5" locked="false" isInGroup="183">
+          <controlProperties>
+            <text>Filter</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="12" y="200" w="243" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="183"/>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="16" y="9" w="238" h="-1" measuredW="123" measuredH="32" zOrder="7" locked="false" isInGroup="183">
+          <controlProperties>
+            <bold>true</bold>
+            <icon>ListIcon%7Cmedium</icon>
+            <labelPosition>left</labelPosition>
+            <size>20</size>
+            <text>Coverage</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="41" w="272" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="183"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Canvas" x="40" y="926" w="272" h="431" measuredW="100" measuredH="70" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="185" controlTypeID="com.balsamiq.mockups::IconLabel" x="57" y="931" w="238" h="-1" measuredW="123" measuredH="32" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="186" controlTypeID="com.balsamiq.mockups::HRule" x="40" y="966" w="272" h="-1" measuredW="100" measuredH="10" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::TabBar" x="57" y="1008" w="238" h="134" measuredW="186" measuredH="100" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::SubTitle" x="54" y="983" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::SubTitle" x="51" y="1113" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="191" controlTypeID="com.balsamiq.mockups::HRule" x="52" y="1101" w="243" h="-1" measuredW="100" measuredH="10" zOrder="34" locked="false" isInGroup="-1"/>
+    <control controlID="192" controlTypeID="com.balsamiq.mockups::ComboBox" x="62" y="1048" w="226" h="-1" measuredW="261" measuredH="24" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::CallOut" x="13" y="1107" w="34" h="39" measuredW="34" measuredH="39" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="201" controlTypeID="__group__" x="57" y="711" w="244" h="22" measuredW="244" measuredH="22" zOrder="20" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="201">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="45" h="22" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="201">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="202" controlTypeID="com.balsamiq.mockups::SubTitle" x="57" y="672" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="203" controlTypeID="com.balsamiq.mockups::HRule" x="58" y="660" w="243" h="-1" measuredW="100" measuredH="10" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="210" controlTypeID="com.balsamiq.mockups::Button" x="232" y="1309" w="-1" h="-1" measuredW="69" measuredH="28" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="211" controlTypeID="com.balsamiq.mockups::Button" x="138" y="1309" w="-1" h="-1" measuredW="77" measuredH="28" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::ScratchOut" x="57" y="667" w="244" h="167" measuredW="205" measuredH="107" zOrder="40" locked="false" isInGroup="-1"/>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::ScratchOut" x="561" y="699" w="244" h="167" measuredW="205" measuredH="107" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::ScratchOut" x="49" y="242" w="244" h="167" measuredW="205" measuredH="107" zOrder="42" locked="false" isInGroup="-1"/>
+    <control controlID="215" controlTypeID="com.balsamiq.mockups::ScratchOut" x="561" y="257" w="244" h="167" measuredW="205" measuredH="107" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="216" controlTypeID="com.balsamiq.mockups::ScratchOut" x="49" y="983" w="244" h="110" measuredW="205" measuredH="107" zOrder="44" locked="false" isInGroup="-1"/>
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::StickyNote" x="179" y="979" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>non-tabbed%20because%20the%20options%0Aare%20independant</text>
+      </controlProperties>
+    </control>
+    <control controlID="241" controlTypeID="__group__" x="50" y="1151" w="219" h="21" measuredW="219" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="241">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="241">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="242" controlTypeID="__group__" x="50" y="1178" w="219" h="21" measuredW="219" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="141" measuredH="19" zOrder="0" locked="false" isInGroup="242">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Include%20Rejected%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="242">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="243" controlTypeID="__group__" x="50" y="1206" w="241" h="22" measuredW="241" measuredH="22" zOrder="46" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="165" measuredH="19" zOrder="0" locked="false" isInGroup="243">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Assigned%20to%20Category</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="243">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="244" controlTypeID="__group__" x="50" y="1235" w="254" h="22" measuredW="254" measuredH="22" zOrder="47" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="0" locked="false" isInGroup="244">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Analysis</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="91" y="0" w="163" h="22" measuredW="163" measuredH="22" zOrder="1" locked="false" isInGroup="244">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="0" w="-1" h="-1" measuredW="73" measuredH="22" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Complete</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="81" y="0" w="-1" h="-1" measuredW="82" measuredH="22" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Incomplete</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="245" controlTypeID="__group__" x="50" y="1262" w="219" h="21" measuredW="219" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="128" measuredH="19" zOrder="0" locked="false" isInGroup="245">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Relevance%20Score</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="245">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="338" controlTypeID="com.balsamiq.mockups::VCurly" x="1331" y="1178" w="243" h="101" measuredW="180" measuredH="140" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>JS%20Datepicker%20widget%20assists%20with%20date%20selection.%20%0AManual%20entry%20allowed%20as%20well</text>
+      </controlProperties>
+    </control>
+    <control controlID="358" controlTypeID="com.balsamiq.mockups::Canvas" x="1584" y="926" w="272" h="501" measuredW="100" measuredH="70" zOrder="103" locked="false" isInGroup="-1"/>
+    <control controlID="359" controlTypeID="com.balsamiq.mockups::IconLabel" x="1601" y="931" w="238" h="-1" measuredW="123" measuredH="32" zOrder="104" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="360" controlTypeID="com.balsamiq.mockups::HRule" x="1584" y="966" w="272" h="-1" measuredW="100" measuredH="10" zOrder="105" locked="false" isInGroup="-1"/>
+    <control controlID="361" controlTypeID="__group__" x="1594" y="1151" w="219" h="21" measuredW="219" measuredH="21" zOrder="106" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="361">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="361">
+          <controlProperties>
+            <state>selected</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="362" controlTypeID="com.balsamiq.mockups::TabBar" x="1601" y="1008" w="238" h="134" measuredW="186" measuredH="100" zOrder="107" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="363" controlTypeID="com.balsamiq.mockups::SubTitle" x="1598" y="983" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="108" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="364" controlTypeID="com.balsamiq.mockups::SubTitle" x="1595" y="1113" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="365" controlTypeID="com.balsamiq.mockups::HRule" x="1596" y="1101" w="243" h="-1" measuredW="100" measuredH="10" zOrder="110" locked="false" isInGroup="-1"/>
+    <control controlID="366" controlTypeID="com.balsamiq.mockups::ComboBox" x="1606" y="1048" w="226" h="-1" measuredW="261" measuredH="24" zOrder="111" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="367" controlTypeID="com.balsamiq.mockups::CallOut" x="1557" y="1108" w="-1" h="-1" measuredW="45" measuredH="40" zOrder="112" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="368" controlTypeID="__group__" x="1594" y="1262" w="219" h="21" measuredW="219" measuredH="21" zOrder="113" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="141" measuredH="19" zOrder="0" locked="false" isInGroup="368">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Include%20Rejected%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="368">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="369" controlTypeID="com.balsamiq.mockups::Button" x="1776" y="1381" w="-1" h="-1" measuredW="69" measuredH="28" zOrder="114" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="370" controlTypeID="com.balsamiq.mockups::Button" x="1682" y="1381" w="-1" h="-1" measuredW="77" measuredH="28" zOrder="115" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+    <control controlID="371" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1593" y="983" w="244" h="110" measuredW="205" measuredH="107" zOrder="116" locked="false" isInGroup="-1"/>
+    <control controlID="373" controlTypeID="__group__" x="1594" y="1290" w="241" h="22" measuredW="241" measuredH="22" zOrder="117" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="165" measuredH="19" zOrder="0" locked="false" isInGroup="373">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Assigned%20to%20Category</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="373">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="375" controlTypeID="__group__" x="1594" y="1346" w="219" h="21" measuredW="219" measuredH="21" zOrder="118" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="128" measuredH="19" zOrder="0" locked="false" isInGroup="375">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Relevance%20Score</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="375">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="382" controlTypeID="com.balsamiq.mockups::DateChooser" x="1677" y="1183" w="124" h="-1" measuredW="111" measuredH="25" zOrder="119" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>02/29/13%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="383" controlTypeID="com.balsamiq.mockups::DateChooser" x="1677" y="1220" w="124" h="-1" measuredW="119" measuredH="25" zOrder="120" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>focused</state>
+        <text>02/29/15%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="384" controlTypeID="com.balsamiq.mockups::Label" x="1594" y="1184" w="68" h="-1" measuredW="40" measuredH="24" zOrder="121" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>16</size>
+        <text>Begin</text>
+      </controlProperties>
+    </control>
+    <control controlID="385" controlTypeID="com.balsamiq.mockups::Label" x="1594" y="1221" w="68" h="-1" measuredW="29" measuredH="24" zOrder="122" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>16</size>
+        <text>End</text>
+      </controlProperties>
+    </control>
+    <control controlID="387" controlTypeID="com.balsamiq.mockups::VCurly" x="1884" y="1160" w="243" h="171" measuredW="180" measuredH="140" zOrder="123" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*I%20know%2C%20they%20are%20impossible%20dates.%0A%20%0Aajax%20submit%20on%20the%20loss%20of%20focus%20of%20the%20End%20Date%2C%20OR%20%0Apost%20date%20widget%20selection</text>
+      </controlProperties>
+    </control>
+    <control controlID="388" controlTypeID="com.balsamiq.mockups::Calendar" x="1772" y="1220" w="-1" h="-1" measuredW="96" measuredH="96" zOrder="124" locked="false" isInGroup="-1"/>
+    <control controlID="389" controlTypeID="com.balsamiq.mockups::Canvas" x="1043" y="926" w="272" h="501" measuredW="100" measuredH="70" zOrder="82" locked="false" isInGroup="-1"/>
+    <control controlID="390" controlTypeID="com.balsamiq.mockups::IconLabel" x="1060" y="931" w="238" h="-1" measuredW="123" measuredH="32" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="391" controlTypeID="com.balsamiq.mockups::HRule" x="1043" y="966" w="272" h="-1" measuredW="100" measuredH="10" zOrder="84" locked="false" isInGroup="-1"/>
+    <control controlID="392" controlTypeID="__group__" x="1053" y="1151" w="219" h="21" measuredW="219" measuredH="21" zOrder="85" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="392">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="392">
+          <controlProperties>
+            <state>selected</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="393" controlTypeID="com.balsamiq.mockups::TabBar" x="1060" y="1008" w="238" h="134" measuredW="186" measuredH="100" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="394" controlTypeID="com.balsamiq.mockups::SubTitle" x="1057" y="983" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="87" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="395" controlTypeID="com.balsamiq.mockups::SubTitle" x="1054" y="1113" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="396" controlTypeID="com.balsamiq.mockups::HRule" x="1055" y="1101" w="243" h="-1" measuredW="100" measuredH="10" zOrder="89" locked="false" isInGroup="-1"/>
+    <control controlID="397" controlTypeID="com.balsamiq.mockups::ComboBox" x="1065" y="1048" w="226" h="-1" measuredW="261" measuredH="24" zOrder="90" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="398" controlTypeID="com.balsamiq.mockups::CallOut" x="1016" y="1108" w="-1" h="-1" measuredW="41" measuredH="39" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="399" controlTypeID="__group__" x="1053" y="1259" w="219" h="21" measuredW="219" measuredH="21" zOrder="92" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="141" measuredH="19" zOrder="0" locked="false" isInGroup="399">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Include%20Rejected%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="399">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="400" controlTypeID="com.balsamiq.mockups::Button" x="1235" y="1381" w="-1" h="-1" measuredW="69" measuredH="28" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="401" controlTypeID="com.balsamiq.mockups::Button" x="1141" y="1381" w="-1" h="-1" measuredW="77" measuredH="28" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+    <control controlID="402" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1052" y="983" w="244" h="110" measuredW="205" measuredH="107" zOrder="95" locked="false" isInGroup="-1"/>
+    <control controlID="404" controlTypeID="__group__" x="1053" y="1287" w="241" h="22" measuredW="241" measuredH="22" zOrder="96" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="165" measuredH="19" zOrder="0" locked="false" isInGroup="404">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Assigned%20to%20Category</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="404">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="406" controlTypeID="__group__" x="1053" y="1343" w="219" h="21" measuredW="219" measuredH="21" zOrder="97" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="128" measuredH="19" zOrder="0" locked="false" isInGroup="406">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Relevance%20Score</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="406">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="407" controlTypeID="com.balsamiq.mockups::Label" x="1043" y="1180" w="68" h="-1" measuredW="40" measuredH="24" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>16</size>
+        <text>Begin</text>
+      </controlProperties>
+    </control>
+    <control controlID="408" controlTypeID="com.balsamiq.mockups::Label" x="1043" y="1217" w="68" h="-1" measuredW="29" measuredH="24" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>16</size>
+        <text>End</text>
+      </controlProperties>
+    </control>
+    <control controlID="409" controlTypeID="com.balsamiq.mockups::DateChooser" x="1126" y="1179" w="124" h="-1" measuredW="123" measuredH="25" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <state>focused</state>
+        <text>MM/DD/YY%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="410" controlTypeID="com.balsamiq.mockups::DateChooser" x="1126" y="1216" w="124" h="-1" measuredW="90" measuredH="25" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="411" controlTypeID="com.balsamiq.mockups::Calendar" x="1221" y="1180" w="-1" h="-1" measuredW="96" measuredH="96" zOrder="102" locked="false" isInGroup="-1"/>
+    <control controlID="412" controlTypeID="__group__" x="379" y="1847" w="231" h="46" measuredW="231" measuredH="46" zOrder="140" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HSlider" x="0" y="15" w="231" h="-1" measuredW="33" measuredH="11" zOrder="0" locked="false" isInGroup="412">
+          <controlProperties>
+            <value>42</value>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CallOut" x="128" y="0" w="86" h="46" measuredW="154" measuredH="39" zOrder="1" locked="false" isInGroup="412">
+          <controlProperties>
+            <text>%23%21%20updates%20on%20change</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="414" controlTypeID="com.balsamiq.mockups::Canvas" x="372" y="926" w="272" h="427" measuredW="100" measuredH="70" zOrder="49" locked="false" isInGroup="-1"/>
+    <control controlID="415" controlTypeID="com.balsamiq.mockups::IconLabel" x="389" y="931" w="238" h="-1" measuredW="123" measuredH="32" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="416" controlTypeID="com.balsamiq.mockups::HRule" x="372" y="966" w="272" h="-1" measuredW="100" measuredH="10" zOrder="51" locked="false" isInGroup="-1"/>
+    <control controlID="417" controlTypeID="__group__" x="382" y="1151" w="219" h="21" measuredW="219" measuredH="21" zOrder="52" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="417">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="417">
+          <controlProperties>
+            <state>selected</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="418" controlTypeID="com.balsamiq.mockups::TabBar" x="389" y="1008" w="238" h="134" measuredW="186" measuredH="100" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="419" controlTypeID="com.balsamiq.mockups::SubTitle" x="386" y="983" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="420" controlTypeID="com.balsamiq.mockups::SubTitle" x="383" y="1113" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="421" controlTypeID="com.balsamiq.mockups::HRule" x="384" y="1101" w="243" h="-1" measuredW="100" measuredH="10" zOrder="56" locked="false" isInGroup="-1"/>
+    <control controlID="422" controlTypeID="com.balsamiq.mockups::ComboBox" x="394" y="1048" w="226" h="-1" measuredW="261" measuredH="24" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="423" controlTypeID="com.balsamiq.mockups::CallOut" x="345" y="1108" w="-1" h="-1" measuredW="34" measuredH="39" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="424" controlTypeID="__group__" x="382" y="1178" w="219" h="21" measuredW="219" measuredH="21" zOrder="59" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="141" measuredH="19" zOrder="0" locked="false" isInGroup="424">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Include%20Rejected%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="424">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="425" controlTypeID="com.balsamiq.mockups::Button" x="564" y="1309" w="69" h="28" measuredW="69" measuredH="28" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="426" controlTypeID="com.balsamiq.mockups::Button" x="470" y="1309" w="77" h="28" measuredW="77" measuredH="28" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+    <control controlID="427" controlTypeID="com.balsamiq.mockups::ScratchOut" x="381" y="983" w="244" h="110" measuredW="205" measuredH="107" zOrder="62" locked="false" isInGroup="-1"/>
+    <control controlID="429" controlTypeID="__group__" x="382" y="1206" w="241" h="22" measuredW="241" measuredH="22" zOrder="63" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="165" measuredH="19" zOrder="0" locked="false" isInGroup="429">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Assigned%20to%20Category</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="429">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="431" controlTypeID="__group__" x="382" y="1262" w="219" h="21" measuredW="219" measuredH="21" zOrder="64" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="128" measuredH="19" zOrder="0" locked="false" isInGroup="431">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Relevance%20Score</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="431">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="432" controlTypeID="com.balsamiq.mockups::Canvas" x="40" y="1468" w="272" h="430" measuredW="100" measuredH="70" zOrder="65" locked="false" isInGroup="-1"/>
+    <control controlID="433" controlTypeID="com.balsamiq.mockups::IconLabel" x="57" y="1473" w="238" h="-1" measuredW="123" measuredH="32" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="434" controlTypeID="com.balsamiq.mockups::HRule" x="40" y="1508" w="272" h="-1" measuredW="100" measuredH="10" zOrder="67" locked="false" isInGroup="-1"/>
+    <control controlID="435" controlTypeID="__group__" x="50" y="1693" w="219" h="21" measuredW="219" measuredH="21" zOrder="68" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="435">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="435">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="436" controlTypeID="com.balsamiq.mockups::TabBar" x="57" y="1550" w="238" h="134" measuredW="186" measuredH="100" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="437" controlTypeID="com.balsamiq.mockups::SubTitle" x="54" y="1525" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="438" controlTypeID="com.balsamiq.mockups::SubTitle" x="51" y="1655" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="439" controlTypeID="com.balsamiq.mockups::HRule" x="52" y="1643" w="243" h="-1" measuredW="100" measuredH="10" zOrder="72" locked="false" isInGroup="-1"/>
+    <control controlID="440" controlTypeID="com.balsamiq.mockups::ComboBox" x="62" y="1590" w="226" h="-1" measuredW="261" measuredH="24" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="441" controlTypeID="com.balsamiq.mockups::CallOut" x="13" y="1481" w="-1" h="-1" measuredW="35" measuredH="39" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="442" controlTypeID="__group__" x="50" y="1720" w="219" h="21" measuredW="219" measuredH="21" zOrder="75" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="141" measuredH="19" zOrder="0" locked="false" isInGroup="442">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Include%20Rejected%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="442">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="443" controlTypeID="com.balsamiq.mockups::Button" x="232" y="1852" w="-1" h="-1" measuredW="69" measuredH="28" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="444" controlTypeID="com.balsamiq.mockups::Button" x="138" y="1852" w="-1" h="-1" measuredW="77" measuredH="28" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+    <control controlID="445" controlTypeID="com.balsamiq.mockups::ScratchOut" x="49" y="1525" w="244" h="110" measuredW="205" measuredH="107" zOrder="78" locked="false" isInGroup="-1"/>
+    <control controlID="446" controlTypeID="com.balsamiq.mockups::StickyNote" x="179" y="1521" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>non-tabbed%20because%20the%20options%0Aare%20independant</text>
+      </controlProperties>
+    </control>
+    <control controlID="449" controlTypeID="__group__" x="50" y="1804" w="219" h="21" measuredW="219" measuredH="21" zOrder="80" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="128" measuredH="19" zOrder="0" locked="false" isInGroup="449">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Relevance%20Score</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="449">
+          <controlProperties>
+            <state>selected</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="450" controlTypeID="com.balsamiq.mockups::Canvas" x="372" y="1468" w="272" h="473" measuredW="100" measuredH="70" zOrder="125" locked="false" isInGroup="-1"/>
+    <control controlID="451" controlTypeID="com.balsamiq.mockups::IconLabel" x="389" y="1473" w="238" h="-1" measuredW="123" measuredH="32" zOrder="126" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="452" controlTypeID="com.balsamiq.mockups::HRule" x="372" y="1508" w="272" h="-1" measuredW="100" measuredH="10" zOrder="127" locked="false" isInGroup="-1"/>
+    <control controlID="453" controlTypeID="__group__" x="382" y="1693" w="219" h="21" measuredW="219" measuredH="21" zOrder="128" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="453">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="453">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="454" controlTypeID="com.balsamiq.mockups::TabBar" x="389" y="1550" w="238" h="134" measuredW="186" measuredH="100" zOrder="129" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="455" controlTypeID="com.balsamiq.mockups::SubTitle" x="386" y="1525" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="130" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="456" controlTypeID="com.balsamiq.mockups::SubTitle" x="383" y="1655" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="131" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="457" controlTypeID="com.balsamiq.mockups::HRule" x="384" y="1643" w="243" h="-1" measuredW="100" measuredH="10" zOrder="132" locked="false" isInGroup="-1"/>
+    <control controlID="458" controlTypeID="com.balsamiq.mockups::ComboBox" x="394" y="1590" w="226" h="-1" measuredW="261" measuredH="24" zOrder="133" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="459" controlTypeID="com.balsamiq.mockups::CallOut" x="345" y="1650" w="-1" h="-1" measuredW="35" measuredH="39" zOrder="134" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="460" controlTypeID="__group__" x="382" y="1720" w="219" h="21" measuredW="219" measuredH="21" zOrder="135" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="141" measuredH="19" zOrder="0" locked="false" isInGroup="460">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Include%20Rejected%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="460">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="461" controlTypeID="com.balsamiq.mockups::Button" x="564" y="1898" w="-1" h="-1" measuredW="69" measuredH="28" zOrder="136" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="462" controlTypeID="com.balsamiq.mockups::Button" x="470" y="1898" w="-1" h="-1" measuredW="77" measuredH="28" zOrder="137" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+    <control controlID="463" controlTypeID="com.balsamiq.mockups::ScratchOut" x="381" y="1525" w="244" h="110" measuredW="205" measuredH="107" zOrder="138" locked="false" isInGroup="-1"/>
+    <control controlID="467" controlTypeID="__group__" x="382" y="1804" w="219" h="21" measuredW="219" measuredH="21" zOrder="139" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="151" measuredH="19" zOrder="0" locked="false" isInGroup="467">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Relevance%20Score%3A%20%23%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="467">
+          <controlProperties>
+            <state>selected</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="468" controlTypeID="com.balsamiq.mockups::Canvas" x="755" y="1473" w="272" h="473" measuredW="100" measuredH="70" zOrder="141" locked="false" isInGroup="-1"/>
+    <control controlID="469" controlTypeID="com.balsamiq.mockups::IconLabel" x="772" y="1478" w="238" h="-1" measuredW="123" measuredH="32" zOrder="142" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="470" controlTypeID="com.balsamiq.mockups::HRule" x="755" y="1513" w="272" h="-1" measuredW="100" measuredH="10" zOrder="143" locked="false" isInGroup="-1"/>
+    <control controlID="471" controlTypeID="__group__" x="765" y="1698" w="219" h="21" measuredW="219" measuredH="21" zOrder="144" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="471">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="471">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="472" controlTypeID="com.balsamiq.mockups::TabBar" x="772" y="1555" w="238" h="134" measuredW="186" measuredH="100" zOrder="145" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="473" controlTypeID="com.balsamiq.mockups::SubTitle" x="769" y="1530" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="146" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="474" controlTypeID="com.balsamiq.mockups::SubTitle" x="766" y="1660" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="147" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="475" controlTypeID="com.balsamiq.mockups::HRule" x="767" y="1648" w="243" h="-1" measuredW="100" measuredH="10" zOrder="148" locked="false" isInGroup="-1"/>
+    <control controlID="476" controlTypeID="com.balsamiq.mockups::ComboBox" x="777" y="1595" w="226" h="-1" measuredW="261" measuredH="24" zOrder="149" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="477" controlTypeID="com.balsamiq.mockups::CallOut" x="728" y="1655" w="-1" h="-1" measuredW="35" measuredH="39" zOrder="150" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="478" controlTypeID="__group__" x="765" y="1725" w="219" h="21" measuredW="219" measuredH="21" zOrder="151" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="141" measuredH="19" zOrder="0" locked="false" isInGroup="478">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Include%20Rejected%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="478">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="479" controlTypeID="com.balsamiq.mockups::Button" x="947" y="1903" w="-1" h="-1" measuredW="69" measuredH="28" zOrder="152" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="480" controlTypeID="com.balsamiq.mockups::Button" x="853" y="1903" w="-1" h="-1" measuredW="77" measuredH="28" zOrder="153" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+    <control controlID="481" controlTypeID="com.balsamiq.mockups::ScratchOut" x="764" y="1530" w="244" h="110" measuredW="205" measuredH="107" zOrder="154" locked="false" isInGroup="-1"/>
+    <control controlID="485" controlTypeID="__group__" x="765" y="1809" w="219" h="21" measuredW="219" measuredH="21" zOrder="155" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="151" measuredH="19" zOrder="0" locked="false" isInGroup="485">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Relevance%20Score%3A%20%23%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="485">
+          <controlProperties>
+            <state>selected</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="486" controlTypeID="__group__" x="762" y="1852" w="231" h="46" measuredW="231" measuredH="46" zOrder="156" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HSlider" x="0" y="15" w="231" h="-1" measuredW="33" measuredH="11" zOrder="0" locked="false" isInGroup="486">
+          <controlProperties>
+            <value>42</value>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CallOut" x="128" y="0" w="86" h="46" measuredW="154" measuredH="39" zOrder="1" locked="false" isInGroup="486">
+          <controlProperties>
+            <text>%23%21%20updates%20on%20change</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="487" controlTypeID="com.balsamiq.mockups::Canvas" x="1103" y="1478" w="272" h="473" measuredW="100" measuredH="70" zOrder="157" locked="false" isInGroup="-1"/>
+    <control controlID="488" controlTypeID="com.balsamiq.mockups::IconLabel" x="1120" y="1483" w="238" h="-1" measuredW="123" measuredH="32" zOrder="158" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <icon>ListIcon%7Cmedium</icon>
+        <labelPosition>left</labelPosition>
+        <size>20</size>
+        <text>Coverage</text>
+      </controlProperties>
+    </control>
+    <control controlID="489" controlTypeID="com.balsamiq.mockups::HRule" x="1103" y="1518" w="272" h="-1" measuredW="100" measuredH="10" zOrder="159" locked="false" isInGroup="-1"/>
+    <control controlID="490" controlTypeID="__group__" x="1113" y="1703" w="219" h="21" measuredW="219" measuredH="21" zOrder="160" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="157" measuredH="19" zOrder="0" locked="false" isInGroup="490">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Limit%20By%20Date%20Range</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="490">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="491" controlTypeID="com.balsamiq.mockups::TabBar" x="1120" y="1560" w="238" h="134" measuredW="186" measuredH="100" zOrder="161" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <text>Category%2C%20Outlet</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="492" controlTypeID="com.balsamiq.mockups::SubTitle" x="1117" y="1535" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="162" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select</text>
+      </controlProperties>
+    </control>
+    <control controlID="493" controlTypeID="com.balsamiq.mockups::SubTitle" x="1114" y="1665" w="-1" h="-1" measuredW="56" measuredH="27" zOrder="163" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="494" controlTypeID="com.balsamiq.mockups::HRule" x="1115" y="1653" w="243" h="-1" measuredW="100" measuredH="10" zOrder="164" locked="false" isInGroup="-1"/>
+    <control controlID="495" controlTypeID="com.balsamiq.mockups::ComboBox" x="1125" y="1600" w="226" h="-1" measuredW="261" measuredH="24" zOrder="165" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Advertiser%20and%20Consumer%20Monetization%0AFilters%0A%09All%0ACategories%0A%09Advertiser%20and%20Consumer%20Monetization%0A%09Amazon%20Web%20Services%0A%09Auto%20Industry%0A%09Autonet%0A%09Azure%0A%09Big%20Data%0A%09Bing%0A%09BMC%0A%09Box%20Inc%0A%09Business%20Development%20and%20Evangelism%0A%09Citizenship%0A%09Cloud%20and%20Enterprise%0A%09Cloud%20Hybrid%0A%09Cloud%20Managed%20Services%0A%09Coca-Cola%0A%09Commercial%20Business%20Segments%0A%09Consumer%0A%09CSS%0A%09Data%0A%09Dev%20Comms%0A%09Dev%20Compete%0A%09Developer%20Tools%0A%09Device%20Platform%0A%09DropBox%0A%09Enterprise%20Mobility%0A%09ES%0A%09Event%0A%09F5%0A%09Google%0A%09Honeywell%0A%09Honeywell%20Connected%20Home%0A%09Honeywell%20Scanning%20and%20Mobility%0A%09Intellectual%20Property%0A%09Intellectual%20Ventures%0A%09Internal%20QA%20Templates%0A%09Internet%20Explorer%0A%09Internet%20of%20Things%0A%09LCA/Policy%0A%09MBS/Dynamics%0A%09Microsoft%0A%09Microsoft%20Compete%0A%09Microsoft%20Environmental%20Sustainability%0A%09Microsoft%20Executives%0A%09Microsoft%20Research%0A%09Mobile%20Carriers%0A%09MS%20Corp%0A%09MS%20Corp%20Events%0A%09MS%20Influencer%20Management%0A%09MS%20Open%20Tech%0A%09MS%20WWLP%0A%09MSR%20Compete%0A%09OEM%0A%09Office%20Industry%0A%09Office%2C%20Office%20365%2C%20Lync%2C%20Yammer%0A%09OneDrive/Outlook.com%0A%09Open%20Tech%0A%09Operating%20Systems%0A%09OSS%20Compete%0A%09Perceptive%20Pixel%0A%09Productivity%0A%09Project%20-%20TMO%20Uncarrier%0A%09QA_MeasurementTesting%0A%09Retail%0A%09Salesforce%0A%09Seattle%20Times%0A%09Service%20Platform%0A%09Services%0A%09Skype%0A%09SPOTLIGHT%3A%20Google%0A%09SPOTLIGHT%3A%20IBM%0A%09SPOTLIGHT%3A%20Microsoft%0A%09SPOTLIGHT%3A%20VMWare%0A%09Startup%0A%09Student%20and%20Education%0A%09Surface%0A%09TEAM%20MARVEL%0A%09testteam1%0A%09testteam2%0A%09Trust%20in%20the%20Cloud%0A%09Trustworthy%20Computing%0A%09TWC%0A%09USPS%0A%09VMware%0A%09Volvo%0A%09Waggener%20Edstrom%0A%09Wearable%20Technology%0A%09Windows%20Embedded%0A%09Windows%20Events%0A%09World%20Cup%202014%0A%09WSG%0A%09Xbox%0A%09ZTE%0A%09ZZDoNotUse%0A%09ZZDoNotUse2%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="496" controlTypeID="com.balsamiq.mockups::CallOut" x="1076" y="1660" w="-1" h="-1" measuredW="36" measuredH="39" zOrder="166" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="497" controlTypeID="__group__" x="1113" y="1730" w="219" h="21" measuredW="219" measuredH="21" zOrder="167" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="141" measuredH="19" zOrder="0" locked="false" isInGroup="497">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Include%20Rejected%3F</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="497">
+          <controlProperties>
+            <state>up</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="498" controlTypeID="com.balsamiq.mockups::Button" x="1295" y="1908" w="-1" h="-1" measuredW="69" measuredH="28" zOrder="168" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Filter</text>
+      </controlProperties>
+    </control>
+    <control controlID="499" controlTypeID="com.balsamiq.mockups::Button" x="1201" y="1908" w="-1" h="-1" measuredW="77" measuredH="28" zOrder="169" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Reset</text>
+      </controlProperties>
+    </control>
+    <control controlID="500" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1112" y="1535" w="244" h="110" measuredW="205" measuredH="107" zOrder="170" locked="false" isInGroup="-1"/>
+    <control controlID="504" controlTypeID="__group__" x="1113" y="1814" w="219" h="21" measuredW="219" measuredH="21" zOrder="171" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="169" h="-1" measuredW="151" measuredH="19" zOrder="0" locked="false" isInGroup="504">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Relevance%20Score%3A%20%23%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="1" locked="false" isInGroup="504">
+          <controlProperties>
+            <state>selected</state>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="506" controlTypeID="com.balsamiq.mockups::CallOut" x="523" y="100" w="-1" h="-1" measuredW="41" measuredH="39" zOrder="174" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="507" controlTypeID="com.balsamiq.mockups::CallOut" x="540" y="536" w="-1" h="-1" measuredW="36" measuredH="43" zOrder="175" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="509" controlTypeID="com.balsamiq.mockups::StickyNote" x="1407" y="1805" w="162" h="123" measuredW="109" measuredH="123" zOrder="176" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>relevance%20is%20%0Acurrently%20zero%20-%204%0Atranslate%20to%201%20-%205%0A%20%0Amake%20it%20rangeable</text>
+      </controlProperties>
+    </control>
+    <control controlID="510" controlTypeID="com.balsamiq.mockups::HSlider" x="1110" y="1872" w="231" h="-1" measuredW="33" measuredH="11" zOrder="172" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <value>42</value>
+      </controlProperties>
+    </control>
+    <control controlID="511" controlTypeID="com.balsamiq.mockups::CallOut" x="1238" y="1857" w="86" h="46" measuredW="154" measuredH="40" zOrder="173" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%23%21%20updates%20on%20change</text>
+      </controlProperties>
+    </control>
+    <control controlID="512" controlTypeID="com.balsamiq.mockups::Title" x="47" y="1426" w="-1" h="-1" measuredW="189" measuredH="43" zOrder="177" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Relevance</text>
+      </controlProperties>
+    </control>
+    <control controlID="513" controlTypeID="com.balsamiq.mockups::Title" x="40" y="873" w="-1" h="-1" measuredW="229" measuredH="43" zOrder="178" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%20Range%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="514" controlTypeID="com.balsamiq.mockups::Title" x="40" y="438" w="-1" h="-1" measuredW="387" measuredH="43" zOrder="179" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20from%20Outlet%28s%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="515" controlTypeID="com.balsamiq.mockups::Title" x="40" y="0" w="-1" h="-1" measuredW="474" measuredH="43" zOrder="180" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20from%20Category%28ies%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="516" controlTypeID="__group__" x="382" y="1234" w="254" h="22" measuredW="254" measuredH="22" zOrder="181" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="0" locked="false" isInGroup="516">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Analysis</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="91" y="0" w="163" h="22" measuredW="163" measuredH="22" zOrder="1" locked="false" isInGroup="516">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="0" w="-1" h="-1" measuredW="73" measuredH="22" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Complete</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="81" y="0" w="-1" h="-1" measuredW="82" measuredH="22" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Incomplete</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="517" controlTypeID="__group__" x="1053" y="1316" w="254" h="22" measuredW="254" measuredH="22" zOrder="182" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="0" locked="false" isInGroup="517">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Analysis</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="91" y="0" w="163" h="22" measuredW="163" measuredH="22" zOrder="1" locked="false" isInGroup="517">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="0" w="-1" h="-1" measuredW="73" measuredH="22" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Complete</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="81" y="0" w="-1" h="-1" measuredW="82" measuredH="22" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Incomplete</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="518" controlTypeID="__group__" x="1593" y="1316" w="254" h="22" measuredW="254" measuredH="22" zOrder="183" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="0" locked="false" isInGroup="518">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Analysis</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="91" y="0" w="163" h="22" measuredW="163" measuredH="22" zOrder="1" locked="false" isInGroup="518">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="0" w="-1" h="-1" measuredW="73" measuredH="22" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Complete</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="81" y="0" w="-1" h="-1" measuredW="82" measuredH="22" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Incomplete</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="519" controlTypeID="__group__" x="47" y="1746" w="241" h="22" measuredW="241" measuredH="22" zOrder="184" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="165" measuredH="19" zOrder="0" locked="false" isInGroup="519">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Assigned%20to%20Category</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="-1" h="-1" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="519">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="520" controlTypeID="__group__" x="47" y="1775" w="254" h="22" measuredW="254" measuredH="22" zOrder="185" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="-1" h="-1" measuredW="63" measuredH="19" zOrder="0" locked="false" isInGroup="520">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Analysis</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="91" y="0" w="163" h="22" measuredW="163" measuredH="22" zOrder="1" locked="false" isInGroup="520">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="0" w="-1" h="-1" measuredW="73" measuredH="22" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Complete</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="81" y="0" w="-1" h="-1" measuredW="82" measuredH="22" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Incomplete</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="521" controlTypeID="__group__" x="382" y="1746" w="241" h="22" measuredW="241" measuredH="22" zOrder="186" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="165" h="-1" measuredW="165" measuredH="19" zOrder="0" locked="false" isInGroup="521">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Assigned%20to%20Category</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="42" h="22" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="521">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="522" controlTypeID="__group__" x="382" y="1775" w="254" h="22" measuredW="254" measuredH="22" zOrder="187" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="63" h="-1" measuredW="63" measuredH="19" zOrder="0" locked="false" isInGroup="522">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Analysis</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="91" y="0" w="163" h="22" measuredW="163" measuredH="22" zOrder="1" locked="false" isInGroup="522">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="0" w="73" h="22" measuredW="73" measuredH="22" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Complete</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="81" y="0" w="82" h="22" measuredW="82" measuredH="22" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Incomplete</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="523" controlTypeID="__group__" x="765" y="1751" w="241" h="24" measuredW="241" measuredH="24" zOrder="188" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="165" h="-1" measuredW="165" measuredH="19" zOrder="0" locked="false" isInGroup="523">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Assigned%20to%20Category</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="42" h="24" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="523">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="524" controlTypeID="__group__" x="765" y="1777" w="254" h="24" measuredW="254" measuredH="24" zOrder="189" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="63" h="-1" measuredW="63" measuredH="19" zOrder="0" locked="false" isInGroup="524">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Analysis</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="91" y="0" w="163" h="24" measuredW="163" measuredH="24" zOrder="1" locked="false" isInGroup="524">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="0" w="73" h="24" measuredW="73" measuredH="22" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Complete</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="81" y="0" w="82" h="24" measuredW="82" measuredH="22" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Incomplete</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="527" controlTypeID="__group__" x="1110" y="1755" w="241" h="22" measuredW="241" measuredH="22" zOrder="190" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="165" h="-1" measuredW="165" measuredH="19" zOrder="0" locked="false" isInGroup="527">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Assigned%20to%20Category</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="199" y="0" w="42" h="22" measuredW="42" measuredH="22" zOrder="1" locked="false" isInGroup="527">
+          <controlProperties>
+            <state>up</state>
+            <text>Yes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="528" controlTypeID="__group__" x="1110" y="1784" w="254" h="22" measuredW="254" measuredH="22" zOrder="191" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="1" w="63" h="-1" measuredW="63" measuredH="19" zOrder="0" locked="false" isInGroup="528">
+          <controlProperties>
+            <bold>true</bold>
+            <size>16</size>
+            <text>Analysis</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="91" y="0" w="163" h="22" measuredW="163" measuredH="22" zOrder="1" locked="false" isInGroup="528">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RadioButton" x="0" y="0" w="73" h="22" measuredW="73" measuredH="22" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Complete</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RadioButton" x="81" y="0" w="82" h="22" measuredW="82" measuredH="22" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Incomplete</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

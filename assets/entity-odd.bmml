@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1163" measuredH="64" mockupW="1103" mockupH="44">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="60" y="20" w="1103" h="44" measuredW="1103" measuredH="44" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>custom%20entity%3A%20odd</controlName>
+        <customID>Custom%2520Entity%2520Odd</customID>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1103" h="44" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="1022" y="9" w="69" h="27" measuredW="69" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>6710886</color>
+            <href>US4645%26bm%3BUS4645.bmml%26bm%3BUS4645.bmml%26bm%3BUS4645.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221022%2C9%2C1091%2C36%22%20href%3D%22US4645.bmml%22%20alt%3D%22US4645%22%20id%3D%221%22/%3E</map>
+            <menuIcon>false</menuIcon>
+            <text>Manage</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="937" y="9" w="70" h="27" measuredW="70" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>10027008</color>
+            <href>US4645%26bm%3BUS4645.bmml%26bm%3BUS4645.bmml%26bm%3BUS4645.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22937%2C9%2C1007%2C36%22%20href%3D%22US4645.bmml%22%20alt%3D%22US4645%22%20id%3D%222%22/%3E</map>
+            <text>Remove</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="12" w="88" h="-1" measuredW="61" measuredH="21" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Some%20text</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="120" y="12" w="506" h="-1" measuredW="259" measuredH="21" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>up%20tp%201000%20characters%20of%20boolean%20logic%20data.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

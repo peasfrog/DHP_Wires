@@ -1,0 +1,142 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="975" measuredH="803" mockupW="965" mockupH="794">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="10" y="9" w="965" h="794" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>/Manage/Segmentation</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="41" y="147" w="895" h="37" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="11" y="82" w="942" h="50" measuredW="942" measuredH="50" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>DHP%3A%20Navigation%20Bar</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="942" h="50" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="388" y="11" w="539" h="31" measuredW="467" measuredH="27" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <selectedIndex>4</selectedIndex>
+            <text>Discovery%2C%20Assigned%2C%20Add%20Article%2C%20Coverage%2C%20Settings%2C%20USER</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="32" y="12" w="142" h="-1" measuredW="112" measuredH="24" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <color>16777215</color>
+            <icon>DataBaseIcon%7Csmall</icon>
+            <labelPosition>right</labelPosition>
+            <text>Discovery%20Hub</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="48" y="153" w="-1" h="-1" measuredW="161" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Settings%2C%20Category%20Setup</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="657" y="212" w="279" h="46" measuredW="265" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>settings-category%20setup-active%26bm%3Bsettings-category%20setup-active.bmml%26bm%3Bsettings-category%20setup-active.bmml%26bm%3Bsettings-category%20setup-active.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22647%2C203%2C926%2C249%22%20href%3D%22settings-category%2520setup-active.bmml%22%20alt%3D%22settings-category%20setup-active%22%20id%3D%225%22/%3E</map>
+        <size>18</size>
+        <text>Manage%20Category%20Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Title" x="40" y="213" w="-1" h="-1" measuredW="272" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Category%20Segementation</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="32" y="285" w="904" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="32" y="307" w="897" h="74" measuredW="897" measuredH="74" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="897" h="37"/>
+        <override controlID="2" x="18" y="8" w="200" h="21">
+          <text>TEAM%20MARVEL</text>
+        </override>
+        <override controlID="3" x="18" y="48" w="61" h="21"/>
+        <override controlID="4" x="813" y="42" w="69" h="27"/>
+        <override controlID="5" x="813" y="5" w="69" h="27"/>
+        <override controlID="1" x="0" y="37" w="897" h="37"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Segements</src>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Component" x="32" y="382" w="897" h="74" measuredW="897" measuredH="74" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="897" h="37"/>
+        <override controlID="2" x="18" y="8" w="61" h="21"/>
+        <override controlID="3" x="18" y="48" w="61" h="21"/>
+        <override controlID="4" x="813" y="42" w="69" h="27"/>
+        <override controlID="5" x="813" y="5" w="69" h="27"/>
+        <override controlID="1" x="0" y="37" w="897" h="37"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Segements</src>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Component" x="32" y="456" w="897" h="74" measuredW="897" measuredH="74" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="897" h="37"/>
+        <override controlID="2" x="18" y="8" w="61" h="21"/>
+        <override controlID="3" x="18" y="48" w="61" h="21"/>
+        <override controlID="4" x="813" y="42" w="69" h="27"/>
+        <override controlID="5" x="813" y="5" w="69" h="27"/>
+        <override controlID="1" x="0" y="37" w="897" h="37"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Segements</src>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Component" x="32" y="531" w="897" h="74" measuredW="897" measuredH="74" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="897" h="37"/>
+        <override controlID="2" x="18" y="8" w="61" h="21"/>
+        <override controlID="3" x="18" y="48" w="61" h="21"/>
+        <override controlID="4" x="813" y="42" w="69" h="27"/>
+        <override controlID="5" x="813" y="5" w="69" h="27"/>
+        <override controlID="1" x="0" y="37" w="897" h="37"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Segements</src>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Component" x="32" y="605" w="897" h="74" measuredW="897" measuredH="74" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="897" h="37"/>
+        <override controlID="2" x="18" y="8" w="61" h="21"/>
+        <override controlID="3" x="18" y="48" w="61" h="21"/>
+        <override controlID="4" x="813" y="42" w="69" h="27"/>
+        <override controlID="5" x="813" y="5" w="69" h="27"/>
+        <override controlID="1" x="0" y="37" w="897" h="37"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Segements</src>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Component" x="32" y="680" w="897" h="74" measuredW="897" measuredH="74" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="897" h="37"/>
+        <override controlID="2" x="18" y="8" w="61" h="21"/>
+        <override controlID="3" x="18" y="48" w="61" h="21"/>
+        <override controlID="4" x="813" y="42" w="69" h="27"/>
+        <override controlID="5" x="813" y="5" w="69" h="27"/>
+        <override controlID="1" x="0" y="37" w="897" h="37"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Segements</src>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="41" y="240" w="-1" h="-1" measuredW="329" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Manage%20segmentation%20rules%20and%20custom%20search%20queries</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
